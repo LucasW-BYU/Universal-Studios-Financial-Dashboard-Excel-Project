@@ -1,3 +1,5 @@
+![Universal Studios FP&A Dashboard](./repo-image.png)
+
 # 🎢 Universal Studios Financial Dashboard
 
 This Excel project simulates Universal Studios' global park performance using real attendance data, scenario-based forecasting, and dynamic dashboards. It was built to demonstrate FP&A logic, Excel automation, and visualization skills.
